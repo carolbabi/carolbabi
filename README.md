@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on management & business inteligence RFID
-- 🌱 I’m currently learning data science & analytics.
+- 🌱 I’m currently learning data science & analytics
 - 💬 Ask me about Business Management, Lean Six Sigma, KPI
 - 😄 Pronouns: She/Her 
 
