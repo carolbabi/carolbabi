@@ -1,19 +1,12 @@
 ### Hi, I'm CarolBABI 👋<img align="right" height="180em" src="https://cdn.discordapp.com/attachments/889926514525736964/889926727130820638/carol_babi.gif">
-
-
-
 - 🔭 I’m currently working on management & business inteligence RFID
 - 🌱 I’m currently learning data science & analytics
 - 💬 Ask me about Business Management, Lean Six Sigma, KPI
 - 😄 Pronouns: She/Her 
 
-
-
-
-
-
 ##
-
+##
+##
  <div>
   <a href="https://github.com/carolbabi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbabi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
