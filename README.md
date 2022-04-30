@@ -1,7 +1,7 @@
 ### Hi, I'm CarolBABI 👋<img align="right" height="150em" src="https://cdn.discordapp.com/attachments/889926514525736964/889926727130820638/carol_babi.gif">
-- 🔭 I’m currently working on management & business inteligence RFID
+- 🔭 I’m currently working on data engineer
 - 🌱 I’m currently learning data science & analytics
-- 💬 Ask me about Business Management, Lean Six Sigma, KPI
+- 💬 Ask me about Business Management, Lean Six Sigma, Machine Learning, Analytics
 - 😄 Pronouns: She/Her 
 
 ##
