@@ -10,10 +10,15 @@
 
 ##
  <div>
+
   <a href="https://github.com/carolbabi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolbabi&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbabi&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=carolbabi&show_icons=true&theme=radical&include_commits=true"/>
+  </a>
+  <a href="https://github.com/carolbabi">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbabi&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+   
+ </div>
   
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
