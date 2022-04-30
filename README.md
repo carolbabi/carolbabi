@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karinnecristinapereira//)](https://www.linkedin.com/in/carol-souza-data/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/)](https://medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=carol.souza.ufabc@gmail.com)](carol.souza.ufabc@gmail.com)
+
 
 ### Hi, I'm Carol Souza 👋<img align="right" height="150em" src="https://cdn.discordapp.com/attachments/889926514525736964/889926727130820638/carol_babi.gif">
 - 🔭 I’m currently working on data engineer
